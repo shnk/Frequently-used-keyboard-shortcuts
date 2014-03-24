@@ -5,7 +5,7 @@ Here is the list of frequently used keyboard-shortcuts implemented using AutoHot
 
 ^+SPACE		Toggle always on top
 
-#WheelUp/down	change tranparency
+\#WheelUp/down	change tranparency
 
 ^!S		open notepad
 
